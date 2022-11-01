@@ -1,4 +1,5 @@
-# Fatigue(Drowsiness) Detection using OpenCV
+# Computer-Vision-Project-Driver-drowsiness-detection-Full-code-explanation-OpenCV-Python-Dlib
+
 
 ## Applications
 ### This can be used by riders who tends to drive the vehicle for a longer period of time that may lead to accidents
